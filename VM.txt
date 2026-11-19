@@ -1,4 +1,4 @@
--- This file was protected using Luraph Obfuscator v15.2 [https://lura.ph/]
+-- This file was protected using Mos Obfuscator v2 [https://mosObf.Vercel/]
 return setmetatable({}, {
     __index = function(AmQqVmAwODz, LuwzJkYSw)
         local YnSJPXKMdOtyBPcM = {177,140,82,38,248,157,46,2,175,134,21,50,201,101,253,79,78,95,152,1,70,144,123,172,215,254,81,56,132,8,34,101,252,5,51,182,131,150,152,96,88,250,217,34,231,164,146,170,103,23,134,159,15,3,121,150,100,58,73,161,146,209,38,75}
